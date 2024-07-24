@@ -6,7 +6,7 @@ public class SearchingProgram
     {
         Console.WriteLine("Enter a String: ");
         string inputString = Console.ReadLine();
-        Console.WriteLine("Enter a word to search");
+        Console.WriteLine("Enter a word to search: ");
         string searchWord = Console.ReadLine();
         int count = 0;
         int i = 0;
