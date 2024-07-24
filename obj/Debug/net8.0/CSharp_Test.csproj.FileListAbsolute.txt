@@ -1,0 +1,14 @@
+C:\Users\Tuan\RiderProjects\CSharp_Test\CSharp_Test\bin\Debug\net8.0\CSharp_Test.exe
+C:\Users\Tuan\RiderProjects\CSharp_Test\CSharp_Test\bin\Debug\net8.0\CSharp_Test.deps.json
+C:\Users\Tuan\RiderProjects\CSharp_Test\CSharp_Test\bin\Debug\net8.0\CSharp_Test.runtimeconfig.json
+C:\Users\Tuan\RiderProjects\CSharp_Test\CSharp_Test\bin\Debug\net8.0\CSharp_Test.dll
+C:\Users\Tuan\RiderProjects\CSharp_Test\CSharp_Test\bin\Debug\net8.0\CSharp_Test.pdb
+C:\Users\Tuan\RiderProjects\CSharp_Test\CSharp_Test\obj\Debug\net8.0\CSharp_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuan\RiderProjects\CSharp_Test\CSharp_Test\obj\Debug\net8.0\CSharp_Test.AssemblyInfoInputs.cache
+C:\Users\Tuan\RiderProjects\CSharp_Test\CSharp_Test\obj\Debug\net8.0\CSharp_Test.AssemblyInfo.cs
+C:\Users\Tuan\RiderProjects\CSharp_Test\CSharp_Test\obj\Debug\net8.0\CSharp_Test.csproj.CoreCompileInputs.cache
+C:\Users\Tuan\RiderProjects\CSharp_Test\CSharp_Test\obj\Debug\net8.0\CSharp_Test.dll
+C:\Users\Tuan\RiderProjects\CSharp_Test\CSharp_Test\obj\Debug\net8.0\refint\CSharp_Test.dll
+C:\Users\Tuan\RiderProjects\CSharp_Test\CSharp_Test\obj\Debug\net8.0\CSharp_Test.pdb
+C:\Users\Tuan\RiderProjects\CSharp_Test\CSharp_Test\obj\Debug\net8.0\CSharp_Test.genruntimeconfig.cache
+C:\Users\Tuan\RiderProjects\CSharp_Test\CSharp_Test\obj\Debug\net8.0\ref\CSharp_Test.dll
